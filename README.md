@@ -1,4 +1,4 @@
-# insta_clone
+# Social media
 
 A new Flutter project.
 
